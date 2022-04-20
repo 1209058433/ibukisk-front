@@ -1,7 +1,7 @@
 ## ibukisk--前端代码
 第一次动手写的项目，保存下来
 
-首先，网站地址[www.ibukisk.top](www.ibukisk.top)
+首先，网站地址[www.ibukisk.top](www.ibukisk.top),(无法跳转请复制到浏览器进入)
 
 前端使用了vue2全家桶(包括vue2，vuex，vue-router，vue-cli)和elementui
 
