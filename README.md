@@ -5,6 +5,8 @@
 
 前端使用了vue2全家桶(包括vue2，vuex，vue-router，vue-cli)和elementui
 
+迷你播放器使用的vue-aplayer组件
+
 使用前先安装必要的包
 
 安装包:`$ npm install`
